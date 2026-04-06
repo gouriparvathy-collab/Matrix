@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int a[10][10], r, c;
+    int a[10][10], r, c,largest,second;
     int i, j;
     int min, col;
     int saddle = 0;
